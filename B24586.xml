@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>In great Suffolk-street near the Hay-market, at a jewelers house, with a red balcony, lives a gentlewoman, who, by much travelling and many years study, practice, and experience has attained the most rare secrets in the world for beautifying the face, ...</title>
+         </titleStmt>
+         <extent>Approx. 4KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B24586</idno><idno type="EEBO-CITATION">99888985</idno>
+  <idno type="VID">196117</idno>
+  <idno type="EEBO-PROQUEST">2240903432</idno>
+  
+            <idno type="STC">Wing I109D</idno>
+            <idno type="STC">Interim Tract Supplement Guide 551.a.32[127]</idno>
+            <idno type="STC">ESTC R232614</idno>
+            <idno type="PROQUEST">ocm99888985</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888985e"/>
+            <note>(EEBO-TCP ; phase 2, no. B24586)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 196117)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; E8:2[125])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>In great Suffolk-street near the Hay-market, at a jewelers house, with a red balcony, lives a gentlewoman, who, by much travelling and many years study, practice, and experience has attained the most rare secrets in the world for beautifying the face, ...</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1690?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint information from Wing.</note>
+                  <note>A variant at reel position E8:2[126] has last two lines of text on p. [2]: "She has a never failing remedy against barrenness in women as many in this town are sensible of."</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Advertising --  Medicine --  Early works to 1800.</term>
+               <term type="topical_term">Beauty, Personal --  England --  Early works to 1800.</term>
+               <term type="topical_term">Cosmetics --  England --  Early works to 1800.</term>
+               <term type="topical_term">Medicine --  Formulae, receipts, prescriptions --  England --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="advert_for_a_cosmetician">
+            <pb facs="tcp:196117:1"/>
+            <head>In great <hi>Suffolk-Street</hi> near the <hi>Hay-Market,</hi> at a Jewelers house, with a Red <hi>Balcony,</hi> lives a Gentlewoman, Who,</head>
+            <p>BY much Travelling and many years Study, Practice, and Experience has attained the most rate Secrets in the World for beautifying the Face, as many thousands in both City, Court and Country can testifie, many of which have, to their own and others Judgments, had their Teeth and Faces utterly ruined by Poisonous Washes, so that the Skin had been reduced into a perfect <hi>Wanscot</hi> Colour, and full of Wrinkles; yet by her Art, has and is restored to a true Natural Complexion again, and become per<g ref="char:EOLhyphen"/>fectly Beautiful, and smooth: Their Teeth which were black and rotten, are now become white and sound, their lost Hair restored, and the most old and Wrinkled Face made appear young and beautiful. She also Cures all sorts of red Faces, kills the black &amp; white worms, takes away all Heats and Pimples, Sunburn, Yellowness, Morphew, Freckles, or any Accident-relating to the Face. She has also all sorts of delicate Pomatums, White-pots, not to be compared with, Fore head Pieces exactly prepa<g ref="char:EOLhyphen"/>red and also delicate Lip Pomatum, to Plump and Colour the Lips, and preserve them from ever Chopping. The Writers for the Face, you may have from half a Crown to five Pound the Bottle, according to the goodness and quan<g ref="char:EOLhyphen"/>tity, or as the Face shall require. The Powder for the Teeth and Water for the Gums, you may have from Eighteen-pence the Paper or Bottle, to five or ten Shillings. The Water for the Hair which certainly kills all Worms, fastens the Roots, <hi>&amp;c.</hi> Comforts the Brain, and strengthens the Sight, you may have from half a Crown to a Guiny a Bot<g ref="char:EOLhyphen"/>tle. She has an excellent Paste to smooth and whiten the Hands, and several other Rarities not here mentioned: She
+<pb facs="tcp:196117:2"/>also Shapes the Eye brows, taking off the uneven Hair, with little or no pain, makes low Fore-heads high, so that the Hair shall in a little time never return again, to which end you may have a Plaister and Water to take off Hair from any part of the Body. She has also great skill in most Distempers incident to the Bodys o<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Men, Women, &amp; Chil<g ref="char:EOLhyphen"/>dren. I shall only mention these few. First, All sorts of <hi>Agues,</hi> and the most dangerous <hi>Fevers,</hi> removing the Cause, so that the Patient need never fear a Relaps. Secondly, That cru<g ref="char:EOLhyphen"/>el Distemper called the <hi>Stone</hi> and <hi>Ʋlceration</hi> of the <hi>Kidnies,</hi> or any hot burning pain in the Back, caused by any Obstru<g ref="char:EOLhyphen"/>ctions whatsoever. Thirdly, An appro<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed Remedy against the <hi>Scurvey</hi> which drives it out Root &amp; Branch, leaving the Patient perfectly well as a new born Child; and this can be done with so little cost and trouble, as the meanest need not dispair of Cure, tho never so far gone. She has a most pleasant Diet-drink which Cures the worst of <hi>Consump<g ref="char:EOLhyphen"/>tions</hi> in a Month or six Weeks time at farthest: the price is half a Crown the quart Bottle. She can perfectly Cure the <hi>Gout</hi> also, and finds no ingredient wanting but Faith, which if the Patient will bring with him, she doubts not but by Gods Blessing, to perform the rest, tho he or she have lost the use of Limbs, by contraction or Knots in the Joynts: she has skill in all manner of sore Eyes, Curing the <hi>Cartaract,</hi> tho the Patient hath been long blind: or any hot or cold Rheum caused by the <hi>Small-Pox,</hi> or any Spot, or Specks in the Eye. She has a most excellent Cordial to give in case of Malignances to drive out the <hi>Small-Pox</hi> or <hi>Measels</hi> or any inward <hi>Fever,</hi> and a rare Ointmment to anoint the Face, so soon as the <hi>Small-Pox</hi> begins to dry, which preserves the Face from Scars and Pits, with several other Secrets in Phy<g ref="char:EOLhyphen"/>sick, which it any person desires to be satisfied in, they may speak with her, from 9 in the Morning to 12, and from 2 in the Afternoon till 9 at Night.</p>
+            <p>She has a never failing Remedy against Barrenness in Women as many in this Town are sensible of.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
